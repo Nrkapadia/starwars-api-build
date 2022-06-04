@@ -1,7 +1,7 @@
 import { createGlobalStyle } from 'styled-components'
 import Header from "../components/Header";
 import Footer from "../components/Footer";
-import Navbar from "../components/NavBar";
+import Navbar from "../components/Navbar";
 import { useState,useEffect } from 'react';
 import { RingLoader } from 'react-spinners';
 import styled from "styled-components";
